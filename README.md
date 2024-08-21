@@ -1,3 +1,6 @@
+# Machine-assisted agent-based modeling: opening the black box
+
+Defining behavioral rules that reflect the heterogeneity of agents’ decision-making processes is crucial for the design of agent-based models. Rules typically rely on data about a particular system and the prior theoretical knowledge about processes and interactions involved, refined through extensive calibration tests. We propose using theory-supported machine learning (ML) to facilitate model development directly from data. To assure that our representation of the system conforms with theory, we use ML algorithms to find causal relationships between agents, and, also, to identify feedback loops among them. In addition to a behavioral agent-based model that we produce, we also open the ‘blackbox’ of purely empirical machine-driven modeling and generate a conceptual model that connects to theoretical knowledge and makes it easier to understand and communicate the ABM to stakeholders. In this way we can deliver important theoretical understanding of the system and explain the causal inferences involved. With our approach, artificial intelligence in the simulation modeling field can open a new stream in modeling practices and provide opportunities and insights for future applications.
 
 # Data-driven Vs Theory-driven Agent-Based Model
 
